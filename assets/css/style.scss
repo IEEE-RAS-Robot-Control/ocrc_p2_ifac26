@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* background color */
+.page-header {
+    background-color: #feffc8;
+    background-image: linear-gradient(120deg, #feffc8, #1d73be);
+    color: #1a2a3a;
+}
+
+/* heading color */
+.main-content {
+    h1, h2, h3, h4 {
+        color: #2275be;
+    }
+}
