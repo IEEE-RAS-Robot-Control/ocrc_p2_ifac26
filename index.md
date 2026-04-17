@@ -2,7 +2,7 @@
 layout: default
 title: "Open Challenges in Robot Control – Part II:</br>
 Towards a Shared Research Agenda"
-description: "IFAC 2026 Workshop - Busan, Korea"
+description: "IFAC 2026 Workshop - Busan, Republic of Korea"
 date: "Sunday, August 23rd 9:00-17:45"
 venue: "To be announced"
 ---
@@ -27,7 +27,7 @@ venue: "To be announced"
   });
 </script>
 
-## About the Workshop
+## Workshop Overview
 Robotics poses an increasingly demanding set of challenges to control theory, driven by the emergence of new robotic concepts (such as soft and biohybrid systems) and by the growing need for physical interaction, autonomy, and operation in unstructured environments. At the same time, new opportunities are opening up, including the wider availability of advanced robotic platforms and the successful integration of learning-based components. In this evolving landscape, the theory and practice of robot control play a central role.
 
 Despite this growing relevance, control-theoretic contributions addressing these challenges are often fragmented across paradigms, communities, and venues. This workshop provides a dedicated forum to reconnect these efforts and to collectively reflect on which challenges remain open, how their formulation is evolving, and how they relate to both classical control theory and emerging technologies.
@@ -40,6 +40,22 @@ This workshop represents a second, complementary step in a broader community eff
 
 ## Target Audience
 The workshop targets researchers in control and robotics whose work engages with the modeling, analysis, and control of complex robotic systems, particularly in settings involving physical interaction, uncertainty, hybrid behavior, and learning-enabled components. It is especially relevant for those interested in the foundations of robotics control, the limits of existing frameworks, and the formulation of new problems arising from emerging robotic platforms and technologies.
+
+Relevant research areas include, but are not limited to, on **the control theory and engineering** side:
+* nonlinear, geometric, and energy-based control
+* hybrid, discrete-event, and supervisory systems
+* optimization-based control and model predictive control
+* learning-based, data-driven, and adaptive control
+* robustness, uncertainty, and safety-critical control
+* integration of control with perception, planning, and autonomy
+
+And, from the **robotics** perspective:
+* aerial robotics and other floating base systems
+* modeling and control of compliant, soft, and underactuated robots
+* physical interaction, impedance control, and human–robot interaction
+* whole-body, humanoid, and multi-contact control
+
+The intended audience includes faculty members, postdoctoral researchers, and PhD students, as well as advanced practitioners from research-oriented industry who are concerned with principled system design rather than application-specific tuning. The workshop aims to attract participants from both the control and robotics communities and to foster dialogue across methodological and disciplinary boundaries.
 
 ## Invited Speakers
 
@@ -107,14 +123,14 @@ The workshop targets researchers in control and robotics whose work engages with
 | Time | Session |
 |------|---------|
 |09:00-09:15| Opening and workshop framing |
-|09:15-10:55| Session I - Invited perspective talks |
-|10:55-11:25| Coffee break|
-|11:25-13:05| Moderated discussion I |
-|13:05-14:15| Lunch break |
-|14:15-15:55| Session II - Invited perspective talks |
-|15:55-16:25| Coffee break |
-|16:25-17:45| Moderated discussion II |
-|17:45-18:00| Closing remarks |
+|09:15-11:15| Session I - Invited perspective talks |
+|11:15-11:45| Coffee break|
+|11:45-12:45| Moderated Discussion I: The morning session discuss the open challenges in Robot Control, in an open discussion with the audience |
+|12:45-14:00| Lunch break |
+|14:00-16:00| Session II - Invited perspective talks |
+|16:00-16:30| Coffee break |
+|16:30-17:30| Moderated discussion II: The morning session discuss the open challenges in Robot Control, in an open discussion with the audience |
+|17:30-17:45| Closing remarks |
 
 
 ## Organizers
@@ -132,7 +148,7 @@ The workshop targets researchers in control and robotics whose work engages with
     <img src="assets/organizers/kyoungchul.jpg" alt="Kyoungchul Kong" class="profile-image">
     <div class="profile-info">
       <h3>Kyoungchul Kong</h3>
-      <h4>Korea Advanced Institute of Science and Technology, Korea</h4>
+      <h4>Korea Advanced Institute of Science and Technology (KAIST), Korea</h4>
     </div>
   </div>
 
@@ -185,7 +201,7 @@ The workshop targets researchers in control and robotics whose work engages with
   </div>
 </div>
 
-## Future Outcomes
+## Expected Outcomes
 With this workshop, we aim to strengthen the Robot Control community within IFAC and connect it to researchers active in robotics and related areas. Expected outcomes include:
 * a clearer articulation of open challenges in robot control and of how they are perceived across different communities,
 * improved mutual understanding of underlying assumptions, limitations, and points of tension between control-theoretic and robotics-oriented approaches,
