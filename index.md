@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Open Challenges in Robot Control – Part II:</br>
-Towards a Shared Research Agenda"
+title: "Open Challenges in Robot Control – Part II: Towards a Shared Research Agenda"
+display_title: "Open Challenges in Robot Control – Part II:<br>Towards a Shared Research Agenda"
 description: "IFAC 2026 Workshop - Busan, Republic of Korea"
 date: "Sunday, August 23rd 9:00-17:45"
 venue: "To be announced"
