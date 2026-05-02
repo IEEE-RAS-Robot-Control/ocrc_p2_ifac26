@@ -102,9 +102,9 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/frank.jpg" alt="Frank Park" class="profile-image">
+    <img src="assets/speakers/jin.jpg" alt="Hyoun Jin Kim" class="profile-image">
     <div class="profile-info">
-      <h3>Frank Park</h3>
+      <h3>Hyoun Jin Kim</h3>
       <h4>Seoul National University, Korea</h4>
     </div>
   </div>
