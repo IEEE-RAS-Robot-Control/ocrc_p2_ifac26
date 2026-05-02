@@ -5,6 +5,7 @@ display_title: "Open Challenges in Robot Control – Part II:<br>Towards a Share
 description: "IFAC 2026 Workshop - Busan, Republic of Korea"
 date: "Sunday, August 23rd 9:00-17:45"
 venue: "To be announced"
+image: /assets/ogp/ifac2026_ogp.png
 ---
 
 <div id="custom-header-logos" class="custom-header-logos">

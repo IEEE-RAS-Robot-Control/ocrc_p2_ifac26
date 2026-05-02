@@ -2,6 +2,12 @@ title: Open Challenges in Robot Control – Part II
 description: IFAC2026 Workshop on Open Challenges in Robot Control
 theme: jekyll-theme-cayman
 
+url: https://ieee-ras-robot-control.github.io
+baseurl: /ocrc_p2_ifac26
+
+plugins:
+  - jekyll-seo-tag
+
 # GitHub Pages specific settings (Optional but recommended for Cayman)
 repository: IEEE-RAS-Robot-Control/ocrc_p2_ifac26 # Update this to your actual repository
 github:
