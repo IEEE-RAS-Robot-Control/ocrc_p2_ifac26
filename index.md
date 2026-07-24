@@ -62,26 +62,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 <!-- ### Early to Mid Career -->
 <div class="profile-grid">
   <div class="profile-card">
-    <img src="assets/speakers/helen.jpg" alt="Helen Huang" class="profile-image">
+    <img src="assets/speakers/christian.jpg" alt="Christian Ott" class="profile-image">
     <div class="profile-info">
-      <h3>Helen Huang</h3>
-      <h4>North Carolina State University, USA</h4>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <img src="assets/speakers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
-    <div class="profile-info">
-      <h3>Cosimo Della Santina</h3>
-      <h4>TU Delft, The Netherlands</h4>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <img src="assets/speakers/kaoru.jpg" alt="Kaoru Yamamoto" class="profile-image">
-    <div class="profile-info">
-      <h3>Kaoru Yamamoto</h3>
-      <h4>Kyushu University, Japan</h4>
+      <h3>Christian Ott</h3>
+      <h4>TU Wien, Austria</h4>
     </div>
   </div>
 
@@ -94,18 +78,26 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/christian.jpg" alt="Christian Ott" class="profile-image">
+    <img src="assets/speakers/sehoon.jpg" alt="Sehoon Oh" class="profile-image">
     <div class="profile-info">
-      <h3>Christian Ott</h3>
-      <h4>TU Wien, Austria</h4>
+      <h3>Sehoon Oh</h3>
+      <h4>DGIST, Korea</h4>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/jin.jpg" alt="Hyoun Jin Kim" class="profile-image">
+    <img src="assets/speakers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
     <div class="profile-info">
-      <h3>Hyoun Jin Kim</h3>
-      <h4>Seoul National University, Korea</h4>
+      <h3>Cosimo Della Santina</h3>
+      <h4>TU Delft, The Netherlands</h4>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <img src="assets/speakers/woolim.avif" alt="Woolim Hong" class="profile-image">
+    <div class="profile-info">
+      <h3>Woolim Hong</h3>
+      <h4>North Carolina State University, USA</h4>
     </div>
   </div>
 
@@ -116,20 +108,34 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <h4>National Taiwan University, Taiwan</h4>
     </div>
   </div>
+
+  <div class="profile-card">
+    <img src="assets/speakers/jin.jpg" alt="Hyoun Jin Kim" class="profile-image">
+    <div class="profile-info">
+      <h3>Hyoun Jin Kim</h3>
+      <h4>Seoul National University, Korea</h4>
+    </div>
+  </div>
 </div>
 
 ## Program Schedule
 
 | Time | Session |
 |------|---------|
-|09:00-09:15| Opening and workshop framing |
-|09:15-11:15| Session I - Invited perspective talks |
-|11:15-11:45| Coffee break|
-|11:45-12:45| Moderated Discussion I: The morning session discuss the open challenges in Robot Control, in an open discussion with the audience |
-|12:45-14:00| Lunch break |
-|14:00-16:00| Session II - Invited perspective talks |
-|16:00-16:30| Coffee break |
-|16:30-17:30| Moderated discussion II: The morning session discuss the open challenges in Robot Control, in an open discussion with the audience |
+|09:00-09:05| Opening |
+|09:05-09:40| **Session I — Model-based interaction control: rigid, compliant, and soft**<br>Christian Ott (TU Wien) |
+|09:40-10:15| Jinoh Lee (DLR) |
+|10:15-10:45| *Coffee break* |
+|10:45-11:20| Sehoon Oh (DGIST) |
+|11:20-11:55| Cosimo Della Santina (TU Delft) |
+|11:55-13:20| *Lunch break* |
+|13:20-13:55| **Session II — Humans in the loop: interaction, autonomy, and learning**<br>Woolim Hong (NC State University) |
+|13:55-14:30| Li-Chen Fu (National Taiwan University) |
+|14:30-15:05| Hyoun Jin Kim (Seoul National University) |
+|15:05-15:15| Q&A buffer |
+|15:15-15:45| *Coffee break* |
+|15:45-16:20| **TBD** |
+|16:20-17:30| Moderated discussion with all speakers |
 |17:30-17:45| Closing remarks |
 
 
