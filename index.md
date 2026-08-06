@@ -214,6 +214,28 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
   </div>
+
+  <div class="profile-card">
+    <div class="card-head">
+      <img src="assets/speakers/choi_hj.png" alt="Hyunjin Choi" class="profile-image">
+      <div class="profile-info">
+        <h3>Hyunjin Choi | 최현진</h3>
+        <h4>Sangmyung University, Cheonan, Korea</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>Assistant Professor, Dept. of Human Intelligence Robot Engineering, Sangmyung University.</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Program Schedule
@@ -232,7 +254,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 |14:30-15:05| Inkyu Jang (Seoul National University) |
 |15:05-15:15| Q&A buffer |
 |15:15-15:45| *Coffee break* |
-|15:45-16:20| **TBD** |
+|15:45-16:20| Hyunjin Choi (Sangmyung University) |
 |16:20-17:30| Moderated discussion with all speakers |
 |17:30-17:45| Closing remarks |
 
