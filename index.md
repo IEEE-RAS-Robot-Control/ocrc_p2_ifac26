@@ -4,7 +4,7 @@ title: "Open Challenges in Robot Control – Part II: Towards a Shared Research 
 display_title: "Open Challenges in Robot Control – Part II:<br>Towards a Shared Research Agenda"
 description: "IFAC 2026 Workshop - Busan, Republic of Korea"
 date: "Sunday, August 23rd 9:00-17:45"
-venue: "To be announced"
+venue: "Room 311, BEXCO"
 ---
 
 <div id="custom-header-logos" class="custom-header-logos">
@@ -110,9 +110,9 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/jin.jpg" alt="Hyoun Jin Kim" class="profile-image">
+    <img src="assets/speakers/inkyu.jpg" alt="Inkyu Jang" class="profile-image">
     <div class="profile-info">
-      <h3>Hyoun Jin Kim</h3>
+      <h3>Inkyu Jang</h3>
       <h4>Seoul National University, Korea</h4>
     </div>
   </div>
@@ -131,7 +131,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 |11:55-13:20| *Lunch break* |
 |13:20-13:55| **Session II — Humans in the loop: interaction, autonomy, and learning**<br>Woolim Hong (NC State University) |
 |13:55-14:30| Li-Chen Fu (National Taiwan University) |
-|14:30-15:05| Hyoun Jin Kim (Seoul National University) |
+|14:30-15:05| Inkyu Jang (Seoul National University) |
 |15:05-15:15| Q&A buffer |
 |15:15-15:45| *Coffee break* |
 |15:45-16:20| **TBD** |
