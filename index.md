@@ -4,7 +4,7 @@ title: "Open Challenges in Robot Control – Part II: Towards a Shared Research 
 display_title: "Open Challenges in Robot Control – Part II:<br>Towards a Shared Research Agenda"
 description: "IFAC 2026 Workshop - Busan, Republic of Korea"
 date: "Sunday, August 23rd 9:00-17:45"
-venue: "To be announced"
+venue: "Room 311, BEXCO"
 ---
 
 <div id="custom-header-logos" class="custom-header-logos">
@@ -62,81 +62,183 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 <!-- ### Early to Mid Career -->
 <div class="profile-grid">
   <div class="profile-card">
-    <img src="assets/speakers/christian.jpg" alt="Christian Ott" class="profile-image">
-    <div class="profile-info">
-      <h3>Christian Ott</h3>
-      <h4>TU Wien, Austria</h4>
+    <div class="card-head">
+      <img src="assets/speakers/christian.jpg" alt="Christian Ott" class="profile-image">
+      <div class="profile-info">
+        <h3>Christian Ott</h3>
+        <h4>TU Wien, Austria</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/jinoh.jpg" alt="Jinoh Lee" class="profile-image">
-    <div class="profile-info">
-      <h3>Jinoh Lee</h3>
-      <h4>German Aerospace Center (DLR), Germany</h4>
+    <div class="card-head">
+      <img src="assets/speakers/jinoh.jpg" alt="Jinoh Lee" class="profile-image">
+      <div class="profile-info">
+        <h3>Jinoh Lee</h3>
+        <h4>German Aerospace Center (DLR), Germany</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/sehoon.jpg" alt="Sehoon Oh" class="profile-image">
-    <div class="profile-info">
-      <h3>Sehoon Oh</h3>
-      <h4>DGIST, Korea</h4>
+    <div class="card-head">
+      <img src="assets/speakers/sehoon.jpg" alt="Sehoon Oh" class="profile-image">
+      <div class="profile-info">
+        <h3>Sehoon Oh</h3>
+        <h4>DGIST, Korea</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
-    <div class="profile-info">
-      <h3>Cosimo Della Santina</h3>
-      <h4>TU Delft, The Netherlands</h4>
+    <div class="card-head">
+      <img src="assets/speakers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
+      <div class="profile-info">
+        <h3>Cosimo Della Santina</h3>
+        <h4>TU Delft, The Netherlands</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/woolim.avif" alt="Woolim Hong" class="profile-image">
-    <div class="profile-info">
-      <h3>Woolim Hong</h3>
-      <h4>North Carolina State University, USA</h4>
+    <div class="card-head">
+      <img src="assets/speakers/woolim.avif" alt="Woolim Hong" class="profile-image">
+      <div class="profile-info">
+        <h3>Woolim Hong</h3>
+        <h4>North Carolina State University, USA</h4>
+        <p class="talk-title">Talk title: Toward Human&ndash;Robot Symbiosis in Wearable Robotics: Lessons from Robotic Prostheses</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>Woolim Hong is a postdoctoral fellow in the Neuromuscular Rehabilitation Engineering Laboratory, directed by Dr. He (Helen) Huang, at North Carolina State University and the University of North Carolina at Chapel Hill. His research focuses on intelligent control and personalization of wearable robotic systems, particularly powered lower-limb prostheses, with an emphasis on reinforcement learning, human&ndash;robot interaction, and safety. He received his Ph.D. in Mechanical Engineering from Texas A&amp;M University and is a recipient of the NIDILRR Mary E. Switzer Research Fellowship.</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/li.jpg" alt="Li-Chen Fu" class="profile-image">
-    <div class="profile-info">
-      <h3>Li-Chen Fu</h3>
-      <h4>National Taiwan University, Taiwan</h4>
+    <div class="card-head">
+      <img src="assets/speakers/li.jpg" alt="Li-Chen Fu" class="profile-image">
+      <div class="profile-info">
+        <h3>Li-Chen Fu</h3>
+        <h4>National Taiwan University, Taiwan</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/jin.jpg" alt="Hyoun Jin Kim" class="profile-image">
-    <div class="profile-info">
-      <h3>Hyoun Jin Kim</h3>
-      <h4>Seoul National University, Korea</h4>
+    <div class="card-head">
+      <img src="assets/speakers/inkyu.jpg" alt="Inkyu Jang" class="profile-image">
+      <div class="profile-info">
+        <h3>Inkyu Jang</h3>
+        <h4>Seoul National University, Korea</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>TBD</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="card-head">
+      <img src="assets/speakers/choi_hj.png" alt="Hyunjin Choi" class="profile-image">
+      <div class="profile-info">
+        <h3>Hyunjin Choi | 최현진</h3>
+        <h4>Sangmyung University, Cheonan, Korea</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p>Assistant Professor, Dept. of Human Intelligence Robot Engineering, Sangmyung University.</p>
+      </div>
     </div>
   </div>
 </div>
 
 ## Program Schedule
 
-| Time | Session |
-|------|---------|
-|09:00-09:05| Opening |
-|09:05-09:40| **Session I — Model-based interaction control: rigid, compliant, and soft**<br>Christian Ott (TU Wien) |
-|09:40-10:15| Jinoh Lee (DLR) |
-|10:15-10:45| *Coffee break* |
-|10:45-11:20| Sehoon Oh (DGIST) |
-|11:20-11:55| Cosimo Della Santina (TU Delft) |
-|11:55-13:20| *Lunch break* |
-|13:20-13:55| **Session II — Humans in the loop: interaction, autonomy, and learning**<br>Woolim Hong (NC State University) |
-|13:55-14:30| Li-Chen Fu (National Taiwan University) |
-|14:30-15:05| Hyoun Jin Kim (Seoul National University) |
-|15:05-15:15| Q&A buffer |
-|15:15-15:45| *Coffee break* |
-|15:45-16:20| **TBD** |
-|16:20-17:30| Moderated discussion with all speakers |
-|17:30-17:45| Closing remarks |
+<div class="agenda">
+  <div class="row plain"><div class="time">09:00&ndash;09:05</div><div class="who"><span class="name">Opening</span></div></div>
+
+  <div class="session-header s1"><span class="eyebrow">Session I</span><span class="title">Model-based interaction control: rigid, compliant, and soft</span></div>
+  <div class="row s1"><div class="time">09:05&ndash;09:40</div><div class="who"><span class="name">Christian Ott</span> <span class="affil">&mdash; TU Wien</span></div></div>
+  <div class="row s1"><div class="time">09:40&ndash;10:15</div><div class="who"><span class="name">Jinoh Lee</span> <span class="affil">&mdash; DLR</span></div></div>
+  <div class="row break"><div class="time">10:15&ndash;10:45</div><div class="who">Coffee break</div></div>
+  <div class="row s1"><div class="time">10:45&ndash;11:20</div><div class="who"><span class="name">Sehoon Oh</span> <span class="affil">&mdash; DGIST</span></div></div>
+  <div class="row s1"><div class="time">11:20&ndash;11:55</div><div class="who"><span class="name">Cosimo Della Santina</span> <span class="affil">&mdash; TU Delft</span></div></div>
+  <div class="row break"><div class="time">11:55&ndash;13:20</div><div class="who">Lunch break</div></div>
+
+  <div class="session-header s2"><span class="eyebrow">Session II</span><span class="title">Humans in the loop: interaction, autonomy, and learning</span></div>
+  <div class="row s2"><div class="time">13:20&ndash;13:55</div><div class="who"><span class="name">Woolim Hong</span> <span class="affil">&mdash; NC State University</span></div></div>
+  <div class="row s2"><div class="time">13:55&ndash;14:30</div><div class="who"><span class="name">Li-Chen Fu</span> <span class="affil">&mdash; National Taiwan University</span></div></div>
+  <div class="row s2"><div class="time">14:30&ndash;15:05</div><div class="who"><span class="name">Inkyu Jang</span> <span class="affil">&mdash; Seoul National University</span></div></div>
+  <div class="row break"><div class="time">15:05&ndash;15:15</div><div class="who">Q&amp;A buffer</div></div>
+  <div class="row break"><div class="time">15:15&ndash;15:45</div><div class="who">Coffee break</div></div>
+  <div class="row s2"><div class="time">15:45&ndash;16:20</div><div class="who"><span class="name">Hyunjin Choi</span> <span class="affil">&mdash; Sangmyung University</span></div></div>
+
+  <div class="session-header s3"><span class="eyebrow">Closing</span><span class="title">Moderated discussion &amp; closing remarks</span></div>
+  <div class="row s3"><div class="time">16:20&ndash;17:30</div><div class="who">Moderated discussion with all speakers</div></div>
+  <div class="row s3"><div class="time">17:30&ndash;17:45</div><div class="who">Closing remarks</div></div>
+</div>
 
 
 ## Organizers
