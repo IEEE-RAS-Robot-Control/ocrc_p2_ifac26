@@ -71,13 +71,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>TBD</p>
       </div>
     </div>
@@ -93,13 +90,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>TBD</p>
       </div>
     </div>
@@ -115,13 +109,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>TBD</p>
       </div>
     </div>
@@ -137,13 +128,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>TBD</p>
       </div>
     </div>
@@ -155,18 +143,15 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Woolim Hong</h3>
         <h4>North Carolina State University, USA</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: Toward Human&ndash;Robot Symbiosis in Wearable Robotics: Lessons from Robotic Prostheses</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
-        <p>TBD</p>
+        <p>Woolim Hong is a postdoctoral fellow in the Neuromuscular Rehabilitation Engineering Laboratory, directed by Dr. He (Helen) Huang, at North Carolina State University and the University of North Carolina at Chapel Hill. His research focuses on intelligent control and personalization of wearable robotic systems, particularly powered lower-limb prostheses, with an emphasis on reinforcement learning, human&ndash;robot interaction, and safety. He received his Ph.D. in Mechanical Engineering from Texas A&amp;M University and is a recipient of the NIDILRR Mary E. Switzer Research Fellowship.</p>
       </div>
     </div>
   </div>
@@ -181,13 +166,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>TBD</p>
       </div>
     </div>
@@ -203,13 +185,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>TBD</p>
       </div>
     </div>
@@ -225,13 +204,10 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
-      <span class="arrow">&#9662;</span> Abstract &amp; bio
+      <span class="arrow">&#9662;</span> Bio
     </button>
     <div class="details">
       <div class="details-inner">
-        <p class="label">Abstract</p>
-        <p>TBD</p>
-        <p class="label">Bio</p>
         <p>Assistant Professor, Dept. of Human Intelligence Robot Engineering, Sangmyung University.</p>
       </div>
     </div>
