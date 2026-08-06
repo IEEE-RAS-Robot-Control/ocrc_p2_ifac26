@@ -240,23 +240,29 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 
 ## Program Schedule
 
-| Time | Session |
-|------|---------|
-|09:00-09:05| Opening |
-|09:05-09:40| **Session I — Model-based interaction control: rigid, compliant, and soft**<br>Christian Ott (TU Wien) |
-|09:40-10:15| Jinoh Lee (DLR) |
-|10:15-10:45| *Coffee break* |
-|10:45-11:20| Sehoon Oh (DGIST) |
-|11:20-11:55| Cosimo Della Santina (TU Delft) |
-|11:55-13:20| *Lunch break* |
-|13:20-13:55| **Session II — Humans in the loop: interaction, autonomy, and learning**<br>Woolim Hong (NC State University) |
-|13:55-14:30| Li-Chen Fu (National Taiwan University) |
-|14:30-15:05| Inkyu Jang (Seoul National University) |
-|15:05-15:15| Q&A buffer |
-|15:15-15:45| *Coffee break* |
-|15:45-16:20| Hyunjin Choi (Sangmyung University) |
-|16:20-17:30| Moderated discussion with all speakers |
-|17:30-17:45| Closing remarks |
+<div class="agenda">
+  <div class="row plain"><div class="time">09:00&ndash;09:05</div><div class="who"><span class="name">Opening</span></div></div>
+
+  <div class="session-header s1"><span class="eyebrow">Session I</span><span class="title">Model-based interaction control: rigid, compliant, and soft</span></div>
+  <div class="row s1"><div class="time">09:05&ndash;09:40</div><div class="who"><span class="name">Christian Ott</span> <span class="affil">&mdash; TU Wien</span></div></div>
+  <div class="row s1"><div class="time">09:40&ndash;10:15</div><div class="who"><span class="name">Jinoh Lee</span> <span class="affil">&mdash; DLR</span></div></div>
+  <div class="row break"><div class="time">10:15&ndash;10:45</div><div class="who">Coffee break</div></div>
+  <div class="row s1"><div class="time">10:45&ndash;11:20</div><div class="who"><span class="name">Sehoon Oh</span> <span class="affil">&mdash; DGIST</span></div></div>
+  <div class="row s1"><div class="time">11:20&ndash;11:55</div><div class="who"><span class="name">Cosimo Della Santina</span> <span class="affil">&mdash; TU Delft</span></div></div>
+  <div class="row break"><div class="time">11:55&ndash;13:20</div><div class="who">Lunch break</div></div>
+
+  <div class="session-header s2"><span class="eyebrow">Session II</span><span class="title">Humans in the loop: interaction, autonomy, and learning</span></div>
+  <div class="row s2"><div class="time">13:20&ndash;13:55</div><div class="who"><span class="name">Woolim Hong</span> <span class="affil">&mdash; NC State University</span></div></div>
+  <div class="row s2"><div class="time">13:55&ndash;14:30</div><div class="who"><span class="name">Li-Chen Fu</span> <span class="affil">&mdash; National Taiwan University</span></div></div>
+  <div class="row s2"><div class="time">14:30&ndash;15:05</div><div class="who"><span class="name">Inkyu Jang</span> <span class="affil">&mdash; Seoul National University</span></div></div>
+  <div class="row break"><div class="time">15:05&ndash;15:15</div><div class="who">Q&amp;A buffer</div></div>
+  <div class="row break"><div class="time">15:15&ndash;15:45</div><div class="who">Coffee break</div></div>
+  <div class="row s2"><div class="time">15:45&ndash;16:20</div><div class="who"><span class="name">Hyunjin Choi</span> <span class="affil">&mdash; Sangmyung University</span></div></div>
+
+  <div class="session-header s3"><span class="eyebrow">Closing</span><span class="title">Moderated discussion &amp; closing remarks</span></div>
+  <div class="row s3"><div class="time">16:20&ndash;17:30</div><div class="who">Moderated discussion with all speakers</div></div>
+  <div class="row s3"><div class="time">17:30&ndash;17:45</div><div class="who">Closing remarks</div></div>
+</div>
 
 
 ## Organizers

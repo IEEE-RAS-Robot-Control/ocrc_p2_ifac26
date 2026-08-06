@@ -96,48 +96,102 @@
 }
 
 // ============================================================
-// Program schedule table
+// Program schedule agenda (session-grouped rows)
 // ============================================================
-.main-content .table-wrapper {
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+.agenda {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1.5rem 0;
 }
 
-.main-content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5rem 0;
-  font-size: 0.95rem;
+.session-header {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 12px 18px;
+  font-weight: 700;
+  border-top: 1px solid #e1e4e8;
 
-  th {
-    background: #f0f4f8;
-    text-align: center;
-    padding: 14px 20px;
-    border: 1px solid #d1d5db;
+  .eyebrow {
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
     font-weight: 700;
+    opacity: 0.75;
   }
 
-  td {
-    padding: 16px 24px;
-    border: 1px solid #d1d5db;
-    vertical-align: middle;
-    text-align: center;
+  .title {
+    font-size: 0.95rem;
+  }
 
-    &:first-child {
-      white-space: nowrap;
-      width: 140px;
+  &.s1 { background: #eaf2fb; color: #2275be; }
+  &.s2 { background: #e8f7f2; color: #1d9a7c; }
+  &.s3 { background: #f4ecfa; color: #a15fc2; }
+}
+
+.agenda > .session-header:first-child {
+  border-top: none;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 11px 18px 11px 15px;
+  border-top: 1px solid #e1e4e8;
+  border-left: 3px solid transparent;
+
+  &:hover {
+    background: #f5f8ff;
+  }
+
+  &.s1 { border-left-color: #2275be; }
+  &.s2 { border-left-color: #1d9a7c; }
+  &.s3 { border-left-color: #a15fc2; }
+
+  .time {
+    font-variant-numeric: tabular-nums;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #606c71;
+    width: 98px;
+    flex-shrink: 0;
+  }
+
+  .who {
+    flex: 1;
+    min-width: 0;
+
+    .name {
       font-weight: 600;
-      color: #444;
-      background: #fafafa;
+      font-size: 0.92rem;
+    }
+
+    .affil {
+      font-size: 0.8rem;
+      color: #606c71;
     }
   }
 
-  tr:hover td {
-    background: #f5f8ff;
+  &.plain .who .name {
+    font-weight: 600;
+  }
 
-    &:first-child {
-      background: #eef2f8;
+  &.break {
+    border-left-color: transparent;
+
+    .time, .who {
+      color: #8a97a3;
+      font-style: italic;
+      font-weight: 400;
+    }
+
+    .who .name {
+      font-weight: 400;
     }
   }
 }
