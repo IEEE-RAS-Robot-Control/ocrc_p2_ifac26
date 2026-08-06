@@ -62,58 +62,156 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 <!-- ### Early to Mid Career -->
 <div class="profile-grid">
   <div class="profile-card">
-    <img src="assets/speakers/christian.jpg" alt="Christian Ott" class="profile-image">
-    <div class="profile-info">
-      <h3>Christian Ott</h3>
-      <h4>TU Wien, Austria</h4>
+    <div class="card-head">
+      <img src="assets/speakers/christian.jpg" alt="Christian Ott" class="profile-image">
+      <div class="profile-info">
+        <h3>Christian Ott</h3>
+        <h4>TU Wien, Austria</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/jinoh.jpg" alt="Jinoh Lee" class="profile-image">
-    <div class="profile-info">
-      <h3>Jinoh Lee</h3>
-      <h4>German Aerospace Center (DLR), Germany</h4>
+    <div class="card-head">
+      <img src="assets/speakers/jinoh.jpg" alt="Jinoh Lee" class="profile-image">
+      <div class="profile-info">
+        <h3>Jinoh Lee</h3>
+        <h4>German Aerospace Center (DLR), Germany</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/sehoon.jpg" alt="Sehoon Oh" class="profile-image">
-    <div class="profile-info">
-      <h3>Sehoon Oh</h3>
-      <h4>DGIST, Korea</h4>
+    <div class="card-head">
+      <img src="assets/speakers/sehoon.jpg" alt="Sehoon Oh" class="profile-image">
+      <div class="profile-info">
+        <h3>Sehoon Oh</h3>
+        <h4>DGIST, Korea</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
-    <div class="profile-info">
-      <h3>Cosimo Della Santina</h3>
-      <h4>TU Delft, The Netherlands</h4>
+    <div class="card-head">
+      <img src="assets/speakers/cosimo.jpg" alt="Cosimo Della Santina" class="profile-image">
+      <div class="profile-info">
+        <h3>Cosimo Della Santina</h3>
+        <h4>TU Delft, The Netherlands</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/woolim.avif" alt="Woolim Hong" class="profile-image">
-    <div class="profile-info">
-      <h3>Woolim Hong</h3>
-      <h4>North Carolina State University, USA</h4>
+    <div class="card-head">
+      <img src="assets/speakers/woolim.avif" alt="Woolim Hong" class="profile-image">
+      <div class="profile-info">
+        <h3>Woolim Hong</h3>
+        <h4>North Carolina State University, USA</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/li.jpg" alt="Li-Chen Fu" class="profile-image">
-    <div class="profile-info">
-      <h3>Li-Chen Fu</h3>
-      <h4>National Taiwan University, Taiwan</h4>
+    <div class="card-head">
+      <img src="assets/speakers/li.jpg" alt="Li-Chen Fu" class="profile-image">
+      <div class="profile-info">
+        <h3>Li-Chen Fu</h3>
+        <h4>National Taiwan University, Taiwan</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 
   <div class="profile-card">
-    <img src="assets/speakers/inkyu.jpg" alt="Inkyu Jang" class="profile-image">
-    <div class="profile-info">
-      <h3>Inkyu Jang</h3>
-      <h4>Seoul National University, Korea</h4>
+    <div class="card-head">
+      <img src="assets/speakers/inkyu.jpg" alt="Inkyu Jang" class="profile-image">
+      <div class="profile-info">
+        <h3>Inkyu Jang</h3>
+        <h4>Seoul National University, Korea</h4>
+        <p class="talk-title">Talk title: TBD</p>
+      </div>
+    </div>
+    <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
+      <span class="arrow">&#9662;</span> Abstract &amp; bio
+    </button>
+    <div class="details">
+      <div class="details-inner">
+        <p class="label">Abstract</p>
+        <p>TBD</p>
+        <p class="label">Bio</p>
+        <p>TBD</p>
+      </div>
     </div>
   </div>
 </div>
