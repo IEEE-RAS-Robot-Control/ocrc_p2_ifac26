@@ -162,7 +162,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Li-Chen Fu</h3>
         <h4>National Taiwan University, Taiwan</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: GenAI-Empowered Social Robots for Human Care</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -170,7 +170,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>TBD</p>
+        <p>Li-Chen Fu received his Ph.D. degree from UC Berkeley in 1987, and joined National Taiwan University (NTU) since then. He currently holds the title of Lifetime National Chair Professor. He previously served as Secretary General of NTU (2005&ndash;2008) and Director of the NTU Center for AI and Advanced Robotics (2017&ndash;2024). He is an IEEE Fellow, IFAC Fellow, and ACA Fellow, and his research interests include robotics, AI, computer vision, and control.</p>
       </div>
     </div>
   </div>
