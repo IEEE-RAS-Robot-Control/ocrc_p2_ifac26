@@ -86,7 +86,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Jinoh Lee</h3>
         <h4>German Aerospace Center (DLR), Germany</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: A Model-free Model Predictive Control</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -94,7 +94,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>TBD</p>
+        <p>Jinoh Lee is a Research Scientist at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR), where he leads the Humanoid and Legged Robots Team. He is also an Adjunct Professor at KAIST, Korea, and the University of Guelph, Canada. His research focuses on robot control of redundant systems, dual-arm manipulation, and whole-body locomotion of humanoids, and robust control of nonlinear systems. He received his Ph.D. in Mechanical Engineering from KAIST, Korea, in 2012; before joining DLR in 2020, he was a researcher at IIT, Italy, and also partly as a research consultant for Disney Research, US.</p>
       </div>
     </div>
   </div>
