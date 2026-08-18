@@ -177,11 +177,14 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
 
   <div class="profile-card">
     <div class="card-head">
-      <img src="assets/speakers/inkyu.jpg" alt="Inkyu Jang" class="profile-image">
+      <div class="profile-image-group">
+        <img src="assets/speakers/jin.jpg" alt="H. Jin Kim" class="profile-image">
+        <img src="assets/speakers/inkyu.jpg" alt="Inkyu Jang" class="profile-image">
+      </div>
       <div class="profile-info">
-        <h3>Inkyu Jang</h3>
+        <h3>H. Jin Kim &amp; Inkyu Jang</h3>
         <h4>Seoul National University, Korea</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: Safety Analysis and Filtering for Real-World Robot Control</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -189,7 +192,8 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>TBD</p>
+        <p>H. Jin Kim is a Professor in the Department of Aerospace Engineering at Seoul National University (SNU). She received her B.S. degree in Mechanical Engineering from KAIST and her M.S. and Ph.D. degrees in Mechanical Engineering from the University of California, Berkeley. Prior to joining Seoul National University in 2004, she was a postdoctoral researcher and lecturer in Electrical Engineering and Computer Sciences at UC Berkeley. She currently leads the Laboratory for Autonomous Robotics Research (LARR) at SNU and is a visiting researcher at Samsung Electronics. Her research interests include robotics, autonomous systems, intelligent control, motion planning, and navigation, with applications to aerial and ground robotic systems.</p>
+        <p>Inkyu Jang is a Ph.D. candidate (degree pending conferral) in Aerospace Engineering at Seoul National University (SNU) and an incoming postdoctoral researcher at the Department of Electrical Engineering and Computer Sciences at UC Berkeley starting September 2026. During his doctoral studies, he was a visiting researcher at UC Berkeley in 2024 and 2025. He received his B.S. degree in Mechanical Engineering from SNU in 2020. His research interests lie at the intersection of control theory and robotics, with a particular focus on learning-based safety-critical control and stochastic safety analysis.</p>
       </div>
     </div>
   </div>
@@ -230,7 +234,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
   <div class="session-header s2"><span class="eyebrow">Session II</span><span class="title">Humans in the loop: interaction, autonomy, and learning</span></div>
   <div class="row s2"><div class="time">13:20&ndash;13:55</div><div class="who"><span class="name">Woolim Hong</span> <span class="affil">&mdash; NC State University</span></div></div>
   <div class="row s2"><div class="time">13:55&ndash;14:30</div><div class="who"><span class="name">Li-Chen Fu</span> <span class="affil">&mdash; National Taiwan University</span></div></div>
-  <div class="row s2"><div class="time">14:30&ndash;15:05</div><div class="who"><span class="name">Inkyu Jang</span> <span class="affil">&mdash; Seoul National University</span></div></div>
+  <div class="row s2"><div class="time">14:30&ndash;15:05</div><div class="who"><span class="name">H. Jin Kim &amp; Inkyu Jang</span> <span class="affil">&mdash; Seoul National University</span></div></div>
   <div class="row break"><div class="time">15:05&ndash;15:15</div><div class="who">Q&amp;A buffer</div></div>
   <div class="row break"><div class="time">15:15&ndash;15:45</div><div class="who">Coffee break</div></div>
   <div class="row s2"><div class="time">15:45&ndash;16:20</div><div class="who"><span class="name">Hyunjin Choi</span> <span class="affil">&mdash; Sangmyung University</span></div></div>

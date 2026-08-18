@@ -239,6 +239,15 @@
   border: 2px solid #4480b4;
 }
 
+.profile-image-group {
+  display: flex;
+  flex-shrink: 0;
+
+  .profile-image:not(:first-child) {
+    margin-left: -20px;
+  }
+}
+
 .profile-info {
   display: flex;
   flex-direction: column;
