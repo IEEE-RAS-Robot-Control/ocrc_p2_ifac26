@@ -67,7 +67,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Christian Ott</h3>
         <h4>TU Wien, Austria</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: Robot control for tasks with fast contact transitions</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -75,7 +75,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>TBD</p>
+        <p>Christian Ott is Full Professor at TU Wien in Austria and is also affiliated with the German Aerospace Center (DLR). He was Project Assistant Professor at the University of Tokyo and head of department at DLR. He has been Associate Editor for the IEEE TRO and Co-Editor-in-Chief for IFAC Mechatronics. He is currently serving as Senior Editor for IJRR and as Editor-In-Chief of ICRA. He is IEEE Fellow and serves as IFAC Council Member for the triennials 2024&ndash;2026 and 2027&ndash;2029. His research interests are in nonlinear control in robotics, whole-body control, and humanoid robotics.</p>
       </div>
     </div>
   </div>
@@ -200,7 +200,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Hyunjin Choi | 최현진</h3>
         <h4>Sangmyung University, Cheonan, Korea</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: What Should a Wearable Robot Know About Its User? Open Challenges from Wearable Robotics</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -208,7 +208,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>Assistant Professor, Dept. of Human Intelligence Robot Engineering, Sangmyung University.</p>
+        <p>Hyunjin Choi is an Assistant Professor in the Department of Human Intelligence and Robot Engineering at Sangmyung University, Korea. She received her Ph.D. in Mechanical Engineering from Sogang University in 2019, where her research focused on assistance and rehabilitation for people with paretic gait using torque-controlled wearable robots. Prior to joining Sangmyung University, she was a founding member and lead engineer at Angel Robotics. Her research interests include wearable robots, human&ndash;robot interaction, gait analysis, and sensing and control technologies for assistive and rehabilitation robotics. She currently serves as Vice Chair of the IFAC Technical Committee on Robotics.</p>
       </div>
     </div>
   </div>
