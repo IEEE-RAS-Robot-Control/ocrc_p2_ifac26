@@ -105,7 +105,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Sehoon Oh</h3>
         <h4>DGIST, Korea</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: Robot Control in the Era of Physical AI</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -113,7 +113,11 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>TBD</p>
+        <p><strong>Abstract:</strong> AI humanoids can walk, balance, and take a shove. They still can't press, insert, or polish. That's not a learning problem &mdash; it's a control problem: these robots run on position control, and a position controller is built to reject exactly the contact forces that real work depends on.</p>
+        <p>This talk covers what makes robot control harder than conventional precision servo control &mdash; dynamics that change with posture, models you can't directly measure, several tasks competing for the same actuators, and the need to command force as well as position &mdash; and what my lab has built to handle each of them.</p>
+        <p>Sehoon Oh is a Professor in the Department of Robotics and Mechatronics Engineering at the Daegu Gyeongbuk Institute of Science and Technology (DGIST), where he directs the Motion Control Laboratory. He received his B.S., M.S., and Ph.D. degrees in Electrical Engineering from the University of Tokyo. He then held postdoctoral and research positions at the University of Tokyo, and was a visiting scholar at the University of Texas at Austin and a guest scientist at the German Aerospace Center (DLR). His industry experience includes work at Samsung Heavy Industries and at Apptronik (Austin, TX, USA).</p>
+        <p>Dr. Oh's research develops advanced control and mechatronic systems for robots and mobility platforms. He works on high-precision servo control, model-based and optimal control design, and disturbance rejection, and on how data-driven methods can be incorporated into complex dynamical systems without giving up the interpretability and stability guarantees that model-based design provides. His aim is to build motion control architectures that are both explainable and high-performing, validated on full-scale robotic hardware rather than in simulation alone.</p>
+        <p>Dr. Oh is a Senior Member of the IEEE and serves on the Management Committee of the IEEE/ASME Transactions on Mechatronics. He is General Chair of the 19th IEEE International Workshop on Advanced Motion Control (AMC 2026).</p>
       </div>
     </div>
   </div>
@@ -124,7 +128,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
       <div class="profile-info">
         <h3>Cosimo Della Santina</h3>
         <h4>TU Delft, The Netherlands</h4>
-        <p class="talk-title">Talk title: TBD</p>
+        <p class="talk-title">Talk title: Open Challenges in the Control of Soft Robots</p>
       </div>
     </div>
     <button class="toggle" onclick="this.closest('.profile-card').classList.toggle('expanded')">
@@ -132,7 +136,7 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
     </button>
     <div class="details">
       <div class="details-inner">
-        <p>TBD</p>
+        <p>Cosimo Della Santina is Associate Professor at TU Delft, where he leads the Physical Intelligence Lab. His research covers soft robotics, nonlinear dynamics, robot control, and machine learning for control. He holds an ERC Starting Grant and is co-chair of the IEEE RAS Technical Committee on Robot Control.</p>
       </div>
     </div>
   </div>
@@ -224,11 +228,11 @@ The intended audience includes faculty members, postdoctoral researchers, and Ph
   <div class="row plain"><div class="time">09:00&ndash;09:05</div><div class="who"><span class="name">Opening</span></div></div>
 
   <div class="session-header s1"><span class="eyebrow">Session I</span><span class="title">Model-based interaction control: rigid, compliant, and soft</span></div>
-  <div class="row s1"><div class="time">09:05&ndash;09:40</div><div class="who"><span class="name">Christian Ott</span> <span class="affil">&mdash; TU Wien</span></div></div>
+  <div class="row s1"><div class="time">09:05&ndash;09:40</div><div class="who"><span class="name">Cosimo Della Santina</span> <span class="affil">&mdash; TU Delft</span></div></div>
   <div class="row s1"><div class="time">09:40&ndash;10:15</div><div class="who"><span class="name">Jinoh Lee</span> <span class="affil">&mdash; DLR</span></div></div>
   <div class="row break"><div class="time">10:15&ndash;10:45</div><div class="who">Coffee break</div></div>
   <div class="row s1"><div class="time">10:45&ndash;11:20</div><div class="who"><span class="name">Sehoon Oh</span> <span class="affil">&mdash; DGIST</span></div></div>
-  <div class="row s1"><div class="time">11:20&ndash;11:55</div><div class="who"><span class="name">Cosimo Della Santina</span> <span class="affil">&mdash; TU Delft</span></div></div>
+  <div class="row s1"><div class="time">11:20&ndash;11:55</div><div class="who"><span class="name">Christian Ott</span> <span class="affil">&mdash; TU Wien</span></div></div>
   <div class="row break"><div class="time">11:55&ndash;13:20</div><div class="who">Lunch break</div></div>
 
   <div class="session-header s2"><span class="eyebrow">Session II</span><span class="title">Humans in the loop: interaction, autonomy, and learning</span></div>
